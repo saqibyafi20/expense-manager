@@ -20,7 +20,7 @@ This project is developed without using any external libraries, focusing entirel
 
 ### How to Run the Project
 1. Clone the repository:<br>
-git clone https://github.com/saqibyafi20/expense-analyzer-pure-python.git<br>
+git clone https://github.com/saqibyafi20/expense-manager.git<br>
 2. Navigate to the project folder:<br>
 cd expense-analyzer<br>
 3. Run the program:<br>
